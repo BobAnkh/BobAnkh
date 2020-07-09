@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- :memo: I'm an undergraduate student at Tsinghua University
+- :book: My blog is here: [blog](https://blog.bobankh.com)
+- 🔭 I’m currently working on this [repo](https://github.com/BobAnkh/LinuxBeginner). If you are interested in it, make your contributions!
+- :pushpin: I'm currently trying to hijack rendering commands
+- :email: Contact me through [emails](mailto:bobankhshen@gmail.com)
+
 <!--
 **BobAnkh/BobAnkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
