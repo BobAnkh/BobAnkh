@@ -3,7 +3,7 @@
 - :memo: I'm an undergraduate student at Tsinghua University
 - :book: My blog is here: [blog](https://blog.bobankh.com)
 - 🔭 I’m currently working on this [repo](https://github.com/BobAnkh/LinuxBeginner). If you are interested in it, make your contributions!
-- :pushpin: I'm currently trying to hijack rendering commands
+- :pushpin: I'm currently researching on cloud game
 - :email: Contact me through [emails](mailto:bobankhshen@gmail.com)
 
 <!--
