@@ -1,0 +1,22 @@
+# Record of my stars
+
+- `navdeep-G / samplemod`: A good example of Python project structure
+- `facebookresearch / TransCoder`: A interesting research to translate code between languages. e.g.support CPP <-> Python
+- `aosabook / 500lines`: What can be achieved in no more than 500 lines
+- `BobAnkh / auto-generate-changelog`: Self-written Github Action to generate changelog automatically according to conventional commit message
+- `BobAnkh / add-contributors`: Self-written Github Action to add contributors as a table to markdown file (html file is ok too) automatically
+- `microsoft / Detours`: A software package for monitoring and instrumenting API calls on Windows. Mainly use to hook API calls of other softwares
+- `pyecharts / pyecharts`: Python Echarts Plotting Library
+- `Prodesire / Python-Guide-CN`: The chinese translation of "Hitchhiker's Guide to Python" - best practice of python
+- `google / python-fire`: A library for automatically generating command line interfaces (CLIs) from absolutely any Python object
+- `HelloGitHub-Team / HelloDjango-blog-tutorial`: Tutorial of build Django-blog
+- `anuraghazra / github-readme-stats`: Dynamically generated stats for your github readmes
+- `Z4nzu / hackingtool`: ALL IN ONE Hacking Tool For Hackers
+- `apitrace / apitrace`: Tools for tracing OpenGL, Direct3D, and other graphics APIs
+- `kubernetes / kubernetes`: k8s
+- `RichardLitt / standard-readme`: A standard style for README files
+- `tkestack / vcuda-controller`: Tencent's k8s
+- `mbadolato / iTerm2-Color-Schemes`: Over 225 terminal color schemes/themes for iTerm/iTerm2.Includes ports to Terminal, MobaXterm as so on
+- `alex-page / github-project-automation-plus`: Automate GitHub Project cards with any webhook event. Seems to only work for pr within repo at the time
+- `lhunath / guide.bash.academy`: The Bash Guide
+- `excamera / alfalfa`: Purely functional video codec, used for ExCamera and Salsify
