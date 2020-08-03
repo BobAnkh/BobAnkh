@@ -1,5 +1,6 @@
 # Record of my stars
 
+- `OBKoro1 / koro1FileHeader`: A vscode extension to auto-generate file header
 - `navdeep-G / samplemod`: A good example of Python project structure
 - `facebookresearch / TransCoder`: A interesting research to translate code between languages. e.g.support CPP <-> Python
 - `aosabook / 500lines`: What can be achieved in no more than 500 lines
@@ -20,3 +21,25 @@
 - `alex-page / github-project-automation-plus`: Automate GitHub Project cards with any webhook event. Seems to only work for pr within repo at the time
 - `lhunath / guide.bash.academy`: The Bash Guide
 - `excamera / alfalfa`: Purely functional video codec, used for ExCamera and Salsify
+- `microsoft / PowerToys`: Windows system utilities to maximize productivity
+- `BobAnkh / LinuxBeginner`: Sefl-written project to document notes for beginners to Linux and give much typical examples for quick-start
+- `carloscuesta / gitmoji`: An emoji guide for your commit messages
+- `k88hudson / git-flight-rules`: A git tutorial
+- `giongto35 / cloud-game`: Web-based Cloud Gaming service for Retro Game
+- `tuna / thuthesis`: LaTeX Thesis Template for Tsinghua University
+- `lydiahallie / javascript-questions`: A long list of (advanced) JavaScript questions, and their explanations
+- `github / gitignore`: A collection of useful .gitignore templates
+- `duskmoon314 / THU_MAC`: Project for the course Media and Cognition at THUEE
+- `BookStackApp / BookStack`: A platform to create documentation/wiki content built with PHP & Laravel
+- `Piwigo / Piwigo`: A full featured open source photo gallery application for the web
+- `ultralytics / yolov5`: YOLOv5
+- `google / styleguide`: Style guides for Google-originated open-source projects
+- `willmcgugan / rich`: Rich text and beautiful formatting in the terminal. Written in Python
+- `Nuitka / Nuitka`: A Python compiler written in Python
+- `Hello-hao / Tbed`: A image host based on Springboot
+- `TheAlgorithms / Python`: All Algorithms implemented in Python
+- `pallets / flask`: The Python micro framework for building web applications
+- `wisp-x / lsky-pro`: A image host I mainly use
+- `Chevereto / Chevereto-Free`: Open source image hosting software
+- `aristocratos / bashtop`: Linux/OSX/FreeBSD resource monitor
+- `LycheeOrg / Lychee`: A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos
