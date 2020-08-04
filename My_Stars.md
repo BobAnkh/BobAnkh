@@ -1,5 +1,6 @@
 # Record of my stars
 
+- `alexmojaki / futurecoder`: A platform for beginners to learn programming in Python using interactive tutorial
 - `OBKoro1 / koro1FileHeader`: A vscode extension to auto-generate file header
 - `navdeep-G / samplemod`: A good example of Python project structure
 - `facebookresearch / TransCoder`: A interesting research to translate code between languages. e.g.support CPP <-> Python
@@ -43,3 +44,18 @@
 - `Chevereto / Chevereto-Free`: Open source image hosting software
 - `aristocratos / bashtop`: Linux/OSX/FreeBSD resource monitor
 - `LycheeOrg / Lychee`: A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos
+- `pcottle / learnGitBranching`: An interactive git visualization to challenge and educate
+- `wangdoc / bash-tutorial`: A bash tutorial
+- `Molunerfinn / PicGo`: A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+- `rwightman / pytorch-image-models`: PyTorch image models, scripts, pretrained weights
+- `reiinakano / arbitrary-image-stylization-tfjs`: Arbitrary style transfer using TensorFlow.js
+- `getpelican / pelican`: Static site generator that supports Markdown and reST syntax. Powered by Python. I'm using it for my blog
+- `lyhue1991 / eat_tensorflow2_in_30_days`: tf2.0 tutorial
+- `skywind3000 / kcp`: A Fast and Reliable ARQ Protocol
+- `xtaci / kcptun`: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC
+- `StanfordSNR / pantheon`: Pantheon of Congestion Control
+- `obsproject / obs-studio`: Free and open source software for live streaming and screen recording
+- `kon9chunkit / GitHub-Chinese-Top-Charts`: Good chinese repo collection
+- `Jittor / jittor`: A high-performance deep learning framework based on JIT compiling and meta-operators
+- `ddbourgin / numpy-ml`: Machine learning, in numpy
+- `torvalds / linux`: Linux kernel source tree
