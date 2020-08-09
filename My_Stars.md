@@ -59,3 +59,19 @@
 - `Jittor / jittor`: A high-performance deep learning framework based on JIT compiling and meta-operators
 - `ddbourgin / numpy-ml`: Machine learning, in numpy
 - `torvalds / linux`: Linux kernel source tree
+- `elsewhencode / project-guidelines`: A set of best practices for JavaScript projects
+- `billie66 / TLCL`: A tutorial of linux command line
+- `missing-semester / missing-semester`: The Missing Semester of Your CS Education by MIT
+- `PeterWang512 / CNNDetection`: Code for the paper: CNN-generated images are surprisingly easy to spot
+- `mherrmann / selenium-python-helium`: Selenium-python but lighter: Helium is the best Python library for web automation
+- `marcotcr / lime`: Explaining the predictions of any machine learning classifier
+- `pytorch / ELF`: A platform for game research with AlphaGoZero/AlphaZero reimplementation
+- `eriklindernoren / PyTorch-GAN`: PyTorch implementations of Generative Adversarial Networks
+- `PyTorchLightning / pytorch-lightning`: The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate
+- `transys-project / pitree-dataset`: Dataset of PiTree project
+- `L1aoXingyu / code-of-learn-deep-learning-with-pytorch`: This is code of book "Learn Deep Learning with PyTorch"
+- `jackfrued / Python-100-Days`: A great Python tutorial
+- `teadocs / numpy-cn`: Documentation of numpy in Chinese
+- `protocolbuffers / protobuf`: Protocol Buffers - Google's data interchange format
+- `lijin-THU / notes-python`: Python notes in Chinese
+- `pytorch / pytorch`: Tensors and Dynamic neural networks in Python with strong GPU acceleration
