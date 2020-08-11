@@ -75,3 +75,16 @@
 - `protocolbuffers / protobuf`: Protocol Buffers - Google's data interchange format
 - `lijin-THU / notes-python`: Python notes in Chinese
 - `pytorch / pytorch`: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- `ravinet / mahimahi`: Web performance measurement toolkit. I have mainly used in transys
+- `PKUanonym / REKCARC-TSC-UHT`: Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+- `transys-project / pitree`: Practical Implementation of ABR Algorithms Using Decision Trees (ACM MM 2019)
+- `fjxmlzn / DoppelGANger`: Generating High-fidelity, Synthetic Time Series Datasets with DoppelGANger. I think it is for generating web-traces
+- `jackzhenguo / python-small-examples`: Small python examples in Chinese
+- `zhaoolee / ChromeAppHeroes`: ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human
+- `transys-project / metis`: Interpreting Deep Learning-Based Networking Systems (SIGCOMM 2020)
+- `hongzimao / pensieve`: Neural Adaptive Video Streaming with Pensieve (SIGCOMM '17)
+- `zxdclyz / THUEEOJ_Technique`: A function library for lambdaOJ(2019) of THUEE
+- `p4lang / tutorials`L: P4 language tutorials
+- `MisterBooo / LeetCodeAnimation`: Demonstrate all the questions on LeetCode in the form of animation
+- `azl397985856 / leetcode`: LeetCode Solutions: A Record of My Problem Solving Journey
+- `NVlabs / stylegan`: StyleGAN - Official TensorFlow Implementation
