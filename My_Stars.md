@@ -88,3 +88,8 @@
 - `MisterBooo / LeetCodeAnimation`: Demonstrate all the questions on LeetCode in the form of animation
 - `azl397985856 / leetcode`: LeetCode Solutions: A Record of My Problem Solving Journey
 - `NVlabs / stylegan`: StyleGAN - Official TensorFlow Implementation
+- `xinntao / ESRGAN`: Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
+- `alex000kim / nsfw_data_scraper`: Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
+- `thinkingmachines / christmAIs`: Text to abstract art generation for the holidays!
+- `openai / spinningup`: An educational resource to help anyone learn deep reinforcement learning
+- `NVIDIA / waveglow`: A Flow-based Generative Network for Speech Synthesis
