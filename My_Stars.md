@@ -93,3 +93,8 @@
 - `thinkingmachines / christmAIs`: Text to abstract art generation for the holidays!
 - `openai / spinningup`: An educational resource to help anyone learn deep reinforcement learning
 - `NVIDIA / waveglow`: A Flow-based Generative Network for Speech Synthesis
+- `SummitKwan / transparent_latent_gan`: Use supervised learning to illuminate the latent space of GAN for controlled generation and edit
+- `google / uis-rnn`: This is the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm, corresponding to the paper Fully Supervised Speaker Diarization
+- `yandexdataschool / nlp_course`: YSDA course in Natural Language Processing
+- `google-research / bert`: TensorFlow code and pre-trained models for BERT
+- `googlecreativelab / creatability-components`: Web components for making creative tools more accessible
