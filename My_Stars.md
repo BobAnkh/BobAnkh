@@ -98,3 +98,4 @@
 - `yandexdataschool / nlp_course`: YSDA course in Natural Language Processing
 - `google-research / bert`: TensorFlow code and pre-trained models for BERT
 - `googlecreativelab / creatability-components`: Web components for making creative tools more accessible
+- `tensorflow / tensorflow`: An Open Source Machine Learning Framework for Everyone
