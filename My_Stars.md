@@ -1,5 +1,6 @@
 # Record of my stars
 
+- `iswbm / magic-python`: A black-magic python handbook written in chinese
 - `alexmojaki / futurecoder`: A platform for beginners to learn programming in Python using interactive tutorial
 - `OBKoro1 / koro1FileHeader`: A vscode extension to auto-generate file header
 - `navdeep-G / samplemod`: A good example of Python project structure
