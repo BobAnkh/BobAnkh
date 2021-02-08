@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - :memo: I'm an undergraduate student at Department of Electronic Engineering, Tsinghua University
-- :book: Here is my blog: [blog.bobankh.com](https://blog.bobankh.com)
-- 🔭 I’m currently working on this [repo](https://github.com/BobAnkh/auto-generate-changelog). If you are interested in Python or Github Action, make your contributions!
-- :pushpin: I'm currently researching on cloud game
+- :pushpin: I'm currently researching on Network. My research interests include video streaming algorithms and congestion control algorithms.
+- :telescope: I’m currently working on the Github Action [auto-generate-changelog](https://github.com/BobAnkh/auto-generate-changelog). If you are interested in Python or Github Action, make your contributions!
+- :zap: I'm currently learning Rust.
+- :bookmark: Here is my blog: [blog.bobankh.com](https://blog.bobankh.com)
 - :email: Contact me through [emails](mailto:bobankhshen@gmail.com)
 
 <!--
