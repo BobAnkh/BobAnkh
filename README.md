@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobAnkh&layout=compact&langs_count=8&hide_border=true" alt="<Most Used Languages" />
 </a> -->
 
-![BobAnkh's Github Stat](https://github-readme-stats.vercel.app/api?username=BobAnkh&hide_border=true&include_all_commits=true&show_icons=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BobAnkh&layout=compact&langs_count=8&hide_border=true)
+[![BobAnkh's Github Stat](https://github-readme-stats.vercel.app/api?username=BobAnkh&hide_border=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BobAnkh&layout=compact&langs_count=8&hide_border=true)](https://github.com/anuraghazra/convoychat)
