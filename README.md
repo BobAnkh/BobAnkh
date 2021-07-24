@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 
 [![BobAnkh's Github Stat](https://github-readme-stats.vercel.app/api?username=BobAnkh&hide_border=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BobAnkh&layout=compact&langs_count=8&hide_border=true)](https://github.com/anuraghazra/convoychat)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=bobankh&column=6&margin-w=15&no-bg=trueno-frame=true&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
