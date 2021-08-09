@@ -5,7 +5,7 @@
 - :telescope: I’m currently working on the Github Action [auto-generate-changelog](https://github.com/BobAnkh/auto-generate-changelog). If you are interested in Python or Github Action, make your contributions!
 - :zap: I'm currently learning Rust.
 - :sparkles: My programming language: Python, Rust, C, C++
-- :bookmark: My personal website is here: [bobankh.com](bobankh.com)
+- :bookmark: My personal website is here: [bobankh.com](https://bobankh.com)
 - :book: Here is my blog: [blog.bobankh.com](https://blog.bobankh.com)
 - :email: Contact me through [emails](mailto:bobankhshen@gmail.com)
 
