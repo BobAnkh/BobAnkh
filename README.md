@@ -1,14 +1,13 @@
 ### Hi there 👋
 
 - :memo: I'm an undergraduate student at Department of Electronic Engineering, Tsinghua University
-- :pushpin: I'm currently researching on Network. My research interests include video streaming algorithms and congestion control algorithms.
-- :telescope: I’m currently working on the Github Action [auto-generate-changelog](https://github.com/BobAnkh/auto-generate-changelog). If you are interested in Python or Github Action, make your contributions!
-- :zap: I'm currently learning Rust.
-- :sparkles: My programming language: Python, Rust, C, C++
+- :pushpin: I'm currently researching on Network. My research interests include streaming algorithms and congestion control algorithms.
+- :sparkles: My programming language: Rust, C, C++, Python
 - :bookmark: My personal website is here: [bobankh.com](https://bobankh.com)
 - :book: Here is my blog: [blog.bobankh.com](https://blog.bobankh.com)
 - :email: Contact me through [emails](mailto:bobankhshen@gmail.com)
-
+<!-- - :zap: I'm currently learning Rust. -->
+<!-- - :telescope: I’m currently working on the Github Action [auto-generate-changelog](https://github.com/BobAnkh/auto-generate-changelog). If you are interested in Python or Github Action, make your contributions! -->
 <!--
 **BobAnkh/BobAnkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
