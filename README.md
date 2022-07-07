@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 ### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=BobAnkh&hide_border=true&include_all_commits=true&show_icons=true" alt="BobAnkh's Github Stat" />
+  <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=BobAnkh&hide_border=true&include_all_commits=true&show_icons=true" alt="BobAnkh's Github Stat" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobAnkh&layout=compact&langs_count=8&hide_border=true" alt="<Most Used Languages" />
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobAnkh&layout=compact&langs_count=8&hide_border=true" alt="<Most Used Languages" />
 </a>
 
 
