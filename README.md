@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - :memo: I'm a 1st-year PhD student in Institute for Network Sciences and Cyberspace, Tsinghua University.
-- :pushpin: I'm currently researching on Network. My research interests include streaming algorithms and congestion control algorithms.
+- :pushpin: I'm currently researching on Network. My research interests include streaming algorithms, congestion control algorithms and real-time communications.
 - :bookmark: My personal website is here: [bobankh.com](https://bobankh.com)
 - :book: Here is my blog: [blog.bobankh.com](https://blog.bobankh.com)
 - :email: Contact me through [emails](mailto:bobankhshen@gmail.com)
