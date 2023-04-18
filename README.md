@@ -2,8 +2,8 @@
 
 - :memo: I'm a 1st-year PhD student in Institute for Network Sciences and Cyberspace, Tsinghua University.
 - :pushpin: I'm currently researching on Network. My research interests include Streaming Algorithms, Congestion Control Algorithms and Real-Time Communications (RTC).
-- :bookmark: My personal website is here: [bobankh.com](https://bobankh.com)
-- :book: Here is my blog: [blog.bobankh.com](https://blog.bobankh.com)
+- :bookmark: My personal website is here: [https://bobankh.com](https://bobankh.com)
+- :book: I share my thoughts and ideas in posts here: [https://bobankh.com/posts/](https://bobankh.com/posts/)
 - :email: Contact me through [emails](mailto:bobankhshen@gmail.com)
 <!-- - :zap: I'm currently learning Rust. -->
 <!-- - :telescope: I’m currently working on the Github Action [auto-generate-changelog](https://github.com/BobAnkh/auto-generate-changelog). If you are interested in Python or Github Action, make your contributions! -->
