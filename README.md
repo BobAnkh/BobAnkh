@@ -1,6 +1,6 @@
 ## Attain the Utmost in Passivity, Hold Firm to the Basis of Quietude
 
-- :memo: I'm a 2nd-year PhD student at the Institute for Network Sciences and Cyberspace, Tsinghua University.
+- :memo: I'm a 3rd-year PhD student at the Institute for Network Sciences and Cyberspace, Tsinghua University.
 - :pushpin: I'm currently researching on Network. My research interests include Streaming Algorithms, Congestion Control Algorithms, and Real-Time Communications (RTC).
 - :bookmark: My personal website is here: [https://bobankh.com](https://bobankh.com)
 - :book: I share my thoughts and ideas in posts here: [https://bobankh.com/posts/](https://bobankh.com/posts/)
@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bobankh&column=7&margin-w=5&no-bg=trueno-frame=true&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bobankh&column=7&row=1&margin-w=5&no-bg=trueno-frame=true&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
