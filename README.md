@@ -1,7 +1,7 @@
 ## Attain the Utmost in Passivity, Hold Firm to the Basis of Quietude
 
 - :memo: I'm a 4th-year PhD student at the Institute for Network Sciences and Cyberspace, Tsinghua University.
-- :pushpin: I'm currently researching on Network. My research interests include Streaming Algorithms, Congestion Control Algorithms, and Real-Time Communications (RTC).
+- :pushpin: I'm currently researching on Network. My research interests include Multimedia Streaming, Congestion Control, and Network Systems.
 - :bookmark: My personal website is here: [https://bobankh.com](https://bobankh.com)
 - :book: I share my thoughts and ideas in posts here: [https://bobankh.com/posts/](https://bobankh.com/posts/)
 - :email: Contact me through [emails](mailto:bobankhshen@gmail.com)
