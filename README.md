@@ -41,10 +41,10 @@ Here are some ideas to get you started:
 ### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=BobAnkh&hide_border=true&include_all_commits=true&show_icons=true" alt="BobAnkh's Github Stat" />
+  <img align="left" width="52%" src="profile/stats.svg" alt="BobAnkh's Github Stat" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobAnkh&layout=compact&langs_count=6&hide_border=true&hide=lua,java" alt="<Most Used Languages" />
+  <img align="left" width="40%" src="profile/top-langs.svg" alt="<Most Used Languages" />
 </a>
 
 
@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bobankh&column=7&row=1&margin-w=5&no-bg=trueno-frame=true&rank=SSS,SS,S,AAA,AA,A,UNKNOWN,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](profile/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
