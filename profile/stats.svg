@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yixin Shen's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 257, Total Commits  : 3357, Total PRs: 119, Total Issues: 122, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 257, Total Commits  : 3361, Total PRs: 119, Total Issues: 122, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 32.81840174938305;
+        stroke-dashoffset: 32.80708258295872;
       }
     }
   
