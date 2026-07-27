@@ -28,7 +28,7 @@ jobs:
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
-          username: bobankh
+          username: BobAnkh
           file: profile/trophy.svg
           max-cols: 7
           max-rows: 1
