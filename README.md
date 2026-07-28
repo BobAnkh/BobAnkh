@@ -53,5 +53,7 @@ Here are some ideas to get you started:
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BobAnkh&layout=compact&langs_count=6&hide_border=true)](https://github.com/anuraghazra/convoychat)
 -->
 
-
+<!--
 [![trophy](profile/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+[![trophy](https://trophy.benkou.dev/?username=bobankh&column=7&row=1&margin-w=5&no-bg=trueno-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
